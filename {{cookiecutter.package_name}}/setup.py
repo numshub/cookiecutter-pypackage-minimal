@@ -16,7 +16,6 @@ def read(filename):
 setup(
     name="{{ cookiecutter.package_name }}",
     version="{{ cookiecutter.package_version }}",
-    url="{{ cookiecutter.package_url }}",
     license='MIT',
 
     author="{{ cookiecutter.author_name }}",
